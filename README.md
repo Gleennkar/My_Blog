@@ -41,6 +41,9 @@
 - **Database that contains information about users, likes and posts**
 ## 💻 Getting Started <a name="getting-started"></a>
 > To get a local copy up and running, follow these steps.
+- install gems bundle i
+- setup database rails db:setup 
+- run rails server rails s.
 
 ### Prerequisites
 
@@ -66,6 +69,16 @@ In order to run this project you need:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > These are some of the future features we want to add.
+-  Validations and Model specs.
+-  Processing data in models.
+-  Setup and controllers.
+-  Controllers specs.
+-  Views.
+-  Integration specs for Views and fixing n+1 problems.
+-  Add Devise.
+-  Add authorization rules.
+- Add API endpoints.
+-  API documentation.
 
 - [ ] **[Workin on them]**
 
